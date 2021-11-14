@@ -55,7 +55,7 @@ Tested on devices ```Android 10```
 <img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/outputlog.jpg"></img>
 
 ### Support Us
-yotube [@indoneisancyberskulls](https://youtube.com/channel/UCYx88SDEyHv2wwBdCBx-73w)
+yotube [@indoneisancyberskulls](https://youtube.com/channel/UCYx88SDEyHv2wwBdCBx-73w) and
 github [@indonesiancyberskuls](https://github.com/Cyberskulls)
 ### Credit's
 Copyright © 2021 by [@indonesiancyberskulls](https://github.com/Cyberskulls)
