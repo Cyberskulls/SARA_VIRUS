@@ -15,7 +15,7 @@ User can customize:
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (Macos)
 ```bash
-git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash install.sh
+git clone https://github.com/Cyberskulls/SARA_VIRUS.git && cd SARA_VIRUS && sudo bash install.sh
 ```
 Quick installation for Termux Android (Rooted)
 ### Termux
@@ -24,13 +24,13 @@ Quick installation for Termux Android (Rooted)
 - apt-get install python -y
 - pip3 install Pillow
 ```bash
-git clone https://github.com/R1punk/SARA && cd SARA
+git clone https://github.com/Cyberskulls/SARA_VIRUS.git && cd SARA_VIRUS
 tsu
 bash installtermux.sh
 python3 tehsara.py
 ```
 ### Video Tutorial using TERMUX
-[![Watch the video](https://i.ibb.co/C0m9CVC/view.jpg)](https://youtu.be/poXKCgaBg3c) 
+[![Watch the video](https://i.ibb.co/C0m9CVC/view.jpg)](https://youtube.com/channel/UCYx88SDEyHv2wwBdCBx-73w) 
 ### Dependencies
 - Java
   - Openjdk 11
@@ -55,8 +55,7 @@ Tested on devices ```Android 10```
 <img src="https://raw.githubusercontent.com/termuxhackers-id/SARA/main/src/outputlog.jpg"></img>
 
 ### Support Us
-Facebook Pages [@termuxhackers.id](https://fb.me/termuxhackers.id)<br>
-Instagram [@termuxhackers.id](https://instagram.com/termuxhackers.id)
-
+yotube [@indoneisancyberskulls](https://youtube.com/channel/UCYx88SDEyHv2wwBdCBx-73w)
+github [@indonesiancyberskuls](https://github.com/Cyberskulls)
 ### Credit's
-Copyright © 2021 by [Termux Hackers](https://github.com/termuxhackers-id)
+Copyright © 2021 by [@indonesiancyberskulls](https://github.com/Cyberskulls)
